@@ -1,7 +1,7 @@
 name: SHE Photography CA
 favicon: null
-layout_spectrum: 0.9556790301576257
-typography_spectrum: 0.28803124325349927
+layout_spectrum: 0.80306
+typography_spectrum: 0.67983
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#cc247c'
+    - '#6d6b6c'
+    - '#000003'
+    - '#f8b3c2'
   brandStrength: 0.34551961440593004
   lightness: 0.4888106784783304
   saturation: 0.9396220354828984
